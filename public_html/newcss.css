@@ -1,0 +1,18 @@
+
+div {
+  border: solid 1px black
+      
+}
+div div {
+    margin: 3rem;
+    outline: 2PX solid red;
+    outline-offset: 1rem;
+    border: 3rem outset yellow;
+    padding: 4rem;
+    border-radius: 12px;
+    box-shadow: 0 0 0 0rem skyblue;
+    font: bold 1rem sans-serif;
+}
+p{
+    border: solid 1px black
+}
